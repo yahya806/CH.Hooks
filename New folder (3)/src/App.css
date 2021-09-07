@@ -1,0 +1,28 @@
+.lista{
+    display: flex;
+    background-color: slategray;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+}
+.lista >*{
+    margin-top: 10px;
+}
+h1{
+    background-color: slateblue;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+.but{
+    background-color: slategray;
+    display: flex;
+    justify-content: center;
+}
+.dif{
+    display: flex;
+    justify-content: center;
+    background-color: slateblue;
+}
